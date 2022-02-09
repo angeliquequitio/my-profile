@@ -1,0 +1,40 @@
+@import url(components/card.css);
+@import url(components/avatar.css);
+
+div{
+	background: skyblue;                         /* White background */
+	padding: 50px;                             /* Internal space */
+	border-radius: 0px;                        /* Small radius */
+	box-shadow: 0 10px 30px rgba(0,0,0,.1);
+	border-top: 1px solid white;
+	border-right: 2px dotted black;
+	border-bottom: 1px dashed green;
+	border-left: 2px dotted black;
+	text-align: center;
+}
+
+h1{
+  text-align: center; 
+  font-family: 'Cuprum', sans-serif;
+}
+
+p{
+	font-family: 'Source Code Pro', sans-serif;
+}
+
+body { 
+	 
+	margin-bottom: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+}
+
+#photo{
+	margin-left: 300px;
+}
+
+.wave{
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
